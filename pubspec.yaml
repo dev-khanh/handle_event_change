@@ -1,7 +1,7 @@
 name: handle_event_change
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/dev-khanh/handle_event_change
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
